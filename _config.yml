@@ -21,7 +21,7 @@
 title: Daniel Volosov - Programmer, Writer, Thinker
 description: >- # this means to ignore newlines until "baseurl:"
   Daniel Volosov is a Software Engineer with a focus on various technologies related to web, data and cloud computing.
-baseurl: 'blog' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://danielvolosov.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danielvolosov
 github_username: danielvolosov
