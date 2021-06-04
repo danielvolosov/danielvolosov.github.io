@@ -5,6 +5,7 @@ baseurl: ''
 url: 'http://danielvolosov.github.io'
 twitter_username: danielvolosov
 github_username: danielvolosov
+linkedin_username: danielvolosov
 
 # Build settings
 theme: minima
