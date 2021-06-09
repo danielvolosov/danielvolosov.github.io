@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Daniel is a Software Engineer with nearly 4-years of experience as a consultant. Daniel has developed software for clients including a large insurance organization, wholesale roofing provider, innovative startup, national restaurant chain and federal department. He also creates video & written technical content for his blog, Subtle Algorithm.
+Daniel Volosov is a Software Engineer with 4+ years of experience professionally building software for a variety of clients as a consultant. He has worked on projects for clients that include a national insurance company, multiple restaurant chains, wholesale supplier, startups and a federal department.
+
+While currently based out of his favorite city Chicago, IL – Daniel has spent the past five years working out of Miami, Cleveland, Chicago and Washington D.C.
+
+In his spare time, Daniel enjoys working on side projects, reading books, playing video games, learning new spoken languages, running, cycling, playing guitar and listening to music.
